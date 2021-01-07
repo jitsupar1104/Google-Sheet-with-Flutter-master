@@ -32,7 +32,7 @@ class _BeginPage extends State<Mybegin>{
           ),
           Column(
             children: <Widget>[
-//children: <Widget>[
+    // children: <Widget>[asdasdasdaas
               Padding(
                 padding: const EdgeInsets.only(
                     top: 50.0, bottom: 30.0, right: 50.0, left: 50.0),
